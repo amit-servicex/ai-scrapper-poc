@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### 2. Start LLM locally (in separate terminal)
 ```bash
-ollama run mistral
+ollama run llama3.2
 ```
 
 ### 3. Run scraper
